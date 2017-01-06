@@ -1,0 +1,11 @@
+..
+.
+decimal_rounding_spec.rb
+document_state_spec.rb
+filters_spec.rb
+name_tree_spec.rb
+object_store_spec.rb
+pdf_object_spec.rb
+reference_spec.rb
+spec_helper.rb
+stream_spec.rb

@@ -1,0 +1,13 @@
+..
+.
+COPYING
+data
+Gemfile
+GPLv2
+GPLv3
+lib
+LICENSE
+manual
+prawn.gemspec
+Rakefile
+spec

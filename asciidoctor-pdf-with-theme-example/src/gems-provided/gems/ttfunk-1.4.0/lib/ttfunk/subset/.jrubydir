@@ -1,0 +1,7 @@
+..
+.
+base.rb
+mac_roman.rb
+unicode.rb
+unicode_8bit.rb
+windows_1252.rb
