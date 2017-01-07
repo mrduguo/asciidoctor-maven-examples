@@ -34,6 +34,7 @@
         <module>docbook-pipeline-docbkx-example</module>
         <module>docbook-pipeline-jdocbook-example</module>
         <module>java-extension-example</module>
+        <module>spring-swagger2markup-demo</module>
     </modules>
 
     <build>
